@@ -2,7 +2,7 @@
 Welcome to the repository for my **Deep Learning (EE541)** assignments! All the assignments in this repo were coded using **Python**. Below, you'll find the relevant files for each assignment, including datasets and Jupyter notebooks.
 
 ## Introduction
-This repository contains my solutions to the **Deep Learning (EE541)** assignments. These assignments cover various deep learning concepts, including neural networks, clustering, and unsupervised learning, using popular Python libraries like **PyTorch**, **scikit-learn**, **NumPy**, etc.
+This repository contains my solutions to the **Deep Learning (EE541)** assignments. These assignments cover various deep learning concepts, including neural networks, CNNs, ANNs, multi-layer perceptrons, clustering, and unsupervised learning, using popular Python libraries like **PyTorch**, **scikit-learn**, **NumPy**, etc.
 
 ## Assignments
 ### Assignment 1.3
